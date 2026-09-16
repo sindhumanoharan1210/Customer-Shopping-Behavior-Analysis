@@ -125,13 +125,15 @@ Panels include revenue and sales by category, revenue and sales by age group, an
 
 ## 📁 Repository Structure
 
+```
 customer-shopping-behavior-analysis/
-├── README.md |
-├── customer_shopping_behavior.csv |
-├── Customer-shopping-behaviour.ipynb |
-├── Customer Shopping Behaviour Analysis.sql |
-├── Customer Behaviour Analysis.pbix |
-└── Customer-Shopping-Behavior-Analysis.pptx |
+├── README.md
+├── customer_shopping_behavior.csv
+├── Customer-shopping-behaviour.ipynb
+├── Customer Shopping Behaviour Analysis.sql
+├── Customer Behaviour Analysis.pbix
+└── Customer-Shopping-Behavior-Analysis.pptx
+```
 
 ## 🔭 What I'd Extend Next
 
