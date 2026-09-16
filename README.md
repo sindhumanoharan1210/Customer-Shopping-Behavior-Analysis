@@ -124,18 +124,13 @@ Panels include revenue and sales by category, revenue and sales by age group, an
 `Python` · `pandas` · `MySQL` · `SQLAlchemy` · `Power BI` · `DAX` · `Jupyter Notebook`
 
 ## 📁 Repository Structure
+
 customer-shopping-behavior-analysis/
-│
 ├── README.md
-│
 ├── customer_shopping_behavior.csv
-│
-├── Customer-shopping-behavior.ipynb
-│
+├── Customer-shopping-behaviour.ipynb
 ├── Customer Shopping Behaviour Analysis.sql
-│
-└── Customer_Behaviour Analysis.pbix
-│
+├── Customer Behaviour Analysis.pbix
 └── Customer-Shopping-Behavior-Analysis.pptx
 
 ## 🔭 What I'd Extend Next
